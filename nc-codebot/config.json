@@ -1,0 +1,15 @@
+{
+    "token": "Put here your discord token!",
+    "prefix": "!", 
+    "logo":  "https://cdn.discordapp.com/attachments/#/#/logo.png",
+    "hex_color": "#0099ff", 
+    "community_name": "NCBot - Community", 
+    "role_access_id": "Put Here the Discord Role ID",
+    "code_length": 5,
+    "numbers_in_code": true,
+
+    "database_host": "localhost",
+    "database_user": "root",
+    "database_password": "",
+    "database_base": "naornc"
+}
