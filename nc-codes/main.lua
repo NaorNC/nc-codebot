@@ -1,5 +1,4 @@
-NCCore = nil
-TriggerEvent('NCCore:GetObject', function(obj) NCCore = obj end)
+QBCore = exports['qb-core']:GetCoreObject()
 
 RegisterCommand('usecode', function(source, args, rawCommand)
     local src = source
